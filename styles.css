@@ -1,0 +1,23 @@
+.grid-container {
+  position: relative;
+  border: 1px solid black;
+  display: inline-block;
+  padding:0;
+  margin:0;
+}
+
+.number-container {
+  background-color: #1554f4;
+  height: 110px;
+  display: inline-block;
+  border: 2px solid yellow;
+  padding:0;
+  margin:0;
+}
+
+
+.text-shadow-effect {
+  text-shadow: 2px 2px #ff0000;
+  color: yellow;
+  font-size: 50px;
+}  
